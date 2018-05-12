@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9540
     wikipedia: http://en.wikipedia.org/wiki/William_English_Walling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20816#Socialism-As-It-IsA-Survey-of-The-World-Wide-Revolutionary-Movement
 gutenberg_issued: '2007-03-14'
 gutenberg_type: Text
 identifiers:
